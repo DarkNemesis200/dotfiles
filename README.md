@@ -5,6 +5,7 @@ This is a collection of my dotfiles and the scripts I have for making my rice ea
 I've also put some alias' into my .zshrc file so I don't need to type sudo as often for certain commands.
 
 To use: either copy the parts you like into the relevant files or copy all folders and files to your ~/ directory as this is where the programs look for the .config directory and the .vimrc and .zshrc files
+**Important: in the .config/i3/config file xrandr and workspaces are set to my specific monitor configuration so please if you use my dotfiles change these settings to match your setup**
 
 The programs I use in my dotfiles are:
 * termite - for my terminal
