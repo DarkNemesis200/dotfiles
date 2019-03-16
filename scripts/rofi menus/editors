@@ -1,0 +1,5 @@
+ atom
+ atom ~/
+ code
+ termite -e vim
+ arduino
